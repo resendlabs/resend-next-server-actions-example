@@ -11,7 +11,7 @@ To get the most out of this guide, you’ll need to:
 
 ## Instructions
 
-1. Replace `re_123456789` on `index.ts` with your API key.
+1. Add a `.env` file at the root of your directory with the `RESEND_API_KEY=re_123456789` key/value pair. Replace `re_123456789` with your API key from Resend.
 
 2. Install dependencies:
 
